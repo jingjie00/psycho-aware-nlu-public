@@ -1,0 +1,7 @@
+Same as corpus folder
+
+However, the actual detection include bow and transformer
+
+depression x6x2
+personality x3x2
+sentiment x6x2
